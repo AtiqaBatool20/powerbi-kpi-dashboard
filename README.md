@@ -21,7 +21,7 @@ The dashboard improved clarity of performance metrics and supported data-driven 
 
 ## Screenshots
 
-![Dashboard 3](Dashboard3.PNG)
-![Dashboard 2](Dashboard2.PNG)
-![Dashboard 1](Dashboard1.PNG)
+![Dashboard 3](dashboard3.png)
+![Dashboard 2](dashboard2.png)
+![Dashboard 1](dashboard1.png)
 
