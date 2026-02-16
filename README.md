@@ -21,9 +21,11 @@ The dashboard improved clarity of performance metrics and supported data-driven 
 
 ## Screenshots
 
-![Dashboard 1](Dashboard_1.PNG)
-![Dashboard 2](Dashboard_2.PNG)
+
+
 ![Dashboard 3](Dashboard_3.PNG)
+![Dashboard 2](Dashboard_2.PNG)
+![Dashboard 1](Dashboard_1.PNG)
 
 <img width="1693" height="962" alt="Dashboard_3" src="https://github.com/user-attachments/assets/d40e83c2-3775-478d-929d-563028b50e67" />
 <img width="1692" height="956" alt="Dashboard_2" src="https://github.com/user-attachments/assets/fabbe7e8-da63-4fbc-9155-4c0bf62a7d11" />
